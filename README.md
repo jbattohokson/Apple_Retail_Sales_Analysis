@@ -1,7 +1,7 @@
 # A 10x revenue surge doesn't explain itself.
 ### Here's what the data found.
 
-> **[Live Report](https://jbattohokson.github.io/Retail_Sales_Operations_Analysis/Retail_Sales_Operations_Analysis.html)** | [GitHub Repo](https://github.com/jbattohokson/Retail_Sales_Operations_Analysis)
+> **[Live Report](https://jbattohokson.github.io/Retail_Sales_Operations_Analysis/Retail_Sales_Operations_Analysis.html)** | **[Tableau Dashboard](https://public.tableau.com/app/profile/julian.batto.hokson/viz/Apple_Case_Study_Analysis/Dashboard2)** | [GitHub Repo](https://github.com/jbattohokson/Retail_Sales_Operations_Analysis)
 
 ---
 
@@ -37,7 +37,7 @@ Accessories dominate portfolio profitability post-August 2015, with Fenders and 
 Germany achieves 30.3% on Accessories and 28.6% on Clothing — roughly double the US margins in both categories. Bike margin in Germany is 16.7% versus −1.5% in the US, an 18.2 percentage point gap on identical product categories across different markets. Whether Germany's advantage stems from pricing, cost structure, or product mix is the follow-on question that determines the strategic value of the gap.
 
 | Market | Accessories Margin | Bikes Margin | Clothing Margin |
-|--------|-------------------|-------------|----------------|
+|--------|------------------|------------|---------------|
 | France | 14.0% | 0.8% | 10.6% |
 | Germany | 30.3% | 16.7% | 28.6% |
 | United States | 14.7% | −1.5% ⚑ | 12.8% |
